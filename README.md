@@ -1,2 +1,2 @@
 # Introduction
-Introduction
+Hi everyone! Not too long ago, I decided to learn programming, and I chose Java as my path. Now, I've built a solid foundation of knowledge, almost fully mastered Spring, and am working on creating my own projects. Throughout my learning journey, I've gathered numerous ideas for projects that I'd love to bring to life in the future. Here, I'm hoping to find like-minded individuals who are ready to collaborate on projects or perhaps a mentor who can help me navigate the topics that are still unclear or new to me.
